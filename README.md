@@ -29,4 +29,4 @@ Watch ants collaborate, build paths, and optimize routes in real time!
 ## 📸 Screenshots
 Here’s what the simulator looks like in action:
 
-![ACO Simulator Screenshot](images/screenshot.png)  
+![ACO Simulator Screenshot](assets/acosimuldemo.png)  
